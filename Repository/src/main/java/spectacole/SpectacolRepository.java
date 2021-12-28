@@ -32,10 +32,10 @@ public class SpectacolRepository {
         preStmt.setDouble(3, entity.getPret_bilet());
     }
 
-    public Spectacol getOne(Long id) {
+    public Spectacol getOne(int id) {
         Connection con=dbUtils.getConnection();
         Spectacol spectacol=null;
-        try(PreparedStatement preStmt=con.prepareStatement("select * from spectacole where id=?")){
+        try(PreparedStatement preStmt=con.prepareStatement("select * from spectacole where id_spectacol=?")){
             preStmt.setLong(1,id);
             try(ResultSet result=preStmt.executeQuery()){
                 while(result.next()){
@@ -49,7 +49,7 @@ public class SpectacolRepository {
     }
 
     private Spectacol getEntityFromResultSet(ResultSet result) throws SQLException {
-        int id=result.getInt("id");
+        int id=result.getInt("id_spectacol");
         Date dataSpectacol=result.getDate("data_spectacol");
         String titlu = result.getString("titlu");
         double pretBilet = result.getDouble("pret_bilet");
