@@ -73,4 +73,14 @@ public class SpectacolRepository {
         return spectacole;
     }
 
+    public static void main(String[] args) {
+        Spectacol spectacol1 = new Spectacol(Date.valueOf("2022-01-05"), "12 Furiosi", 100);
+        Spectacol spectacol2 = new Spectacol(Date.valueOf("2022-01-07"), "Chirita in carantina", 200);
+        Spectacol spectacol3 = new Spectacol(Date.valueOf("2022-01-08"), "Nu mai tine linia ocupata", 150);
+
+        SpectacolRepository repo = new SpectacolRepository();
+        repo.add(spectacol1);
+        repo.add(spectacol2);
+        repo.add(spectacol3);
+    }
 }

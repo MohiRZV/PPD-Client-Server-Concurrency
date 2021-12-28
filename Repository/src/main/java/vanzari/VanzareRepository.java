@@ -1,6 +1,5 @@
 package vanzari;
 
-import model.Spectacol;
 import model.Vanzare;
 import model.VanzariLocuri;
 import utils.JDBCUtils;
@@ -83,6 +82,26 @@ public class VanzareRepository {
         return vanzare;
     }
 
+    public boolean isBooked(int id_spectacol, int seat) {
+        Connection con=dbUtils.getConnection();
+        boolean booked = false;
+        try(PreparedStatement preStmt=con.prepareStatement("select count(*) as count from vanzari V inner join vanzari_locuri VL where V.id_spectacol = ? and VL.id_vanzare=V.id and VL.numar_loc = ?")){
+            preStmt.setLong(1,id_spectacol);
+            preStmt.setLong(2,seat);
+            try(ResultSet result=preStmt.executeQuery()){
+                while(result.next()){
+                    int count = result.getInt("count");
+                    if(count>0)
+                        booked=true;
+                }
+            }
+        }catch (SQLException ex){
+            System.err.println("Error DB"+ex);
+        }
+
+        return booked;
+    }
+
     public List<Integer> getListaLocuriVandute(int id){
         Connection con=dbUtils.getConnection();
         VanzariLocuri vanzariLocuri;
@@ -134,4 +153,18 @@ public class VanzareRepository {
         return vanzari;
     }
 
+    public void nuke() {
+        Connection con=dbUtils.getConnection();
+        try(PreparedStatement preStmt=con.prepareStatement("delete from vanzari")){
+            preStmt.executeUpdate();
+        }catch (SQLException ex){
+            System.err.println("Error DB"+ex);
+        }
+
+        try(PreparedStatement preStmt=con.prepareStatement("delete from vanzari_locuri")){
+            preStmt.executeUpdate();
+        }catch (SQLException ex){
+            System.err.println("Error DB"+ex);
+        }
+    }
 }
