@@ -1,9 +1,11 @@
 package model;
 
 import java.sql.Date;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Vanzare {
+    int ID_vanzare;
     int ID_spectacol;
     Date data_vanzare;
     int nr_bilete_vandute;
@@ -16,6 +18,29 @@ public class Vanzare {
         this.nr_bilete_vandute = nr_bilete_vandute;
         this.lista_locuri_vandute = lista_locuri_vandute;
         this.suma = suma;
+    }
+
+    public Vanzare(int ID_vanzare, int ID_spectacol, Date data_vanzare) {
+        this.ID_vanzare = ID_vanzare;
+        this.ID_spectacol = ID_spectacol;
+        this.data_vanzare = data_vanzare;
+        this.lista_locuri_vandute = new ArrayList<>();
+    }
+
+
+    public Vanzare(int ID_spectacol, Date data_vanzare) {
+        this.ID_spectacol = ID_spectacol;
+        this.data_vanzare = data_vanzare;
+        this.lista_locuri_vandute = new ArrayList<>();
+
+    }
+
+    public int getID_vanzare() {
+        return ID_vanzare;
+    }
+
+    public void setID_vanzare(int ID_vanzare) {
+        this.ID_vanzare = ID_vanzare;
     }
 
     public int getID_spectacol() {
@@ -57,4 +82,5 @@ public class Vanzare {
     public void setSuma(double suma) {
         this.suma = suma;
     }
+
 }

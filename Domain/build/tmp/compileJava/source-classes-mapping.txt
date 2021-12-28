@@ -1,6 +1,8 @@
 model/Sala.java
  model.Sala
-model/Vanzare.java
- model.Vanzare
 model/Spectacol.java
  model.Spectacol
+model/VanzariLocuri.java
+ model.VanzariLocuri
+model/Vanzare.java
+ model.Vanzare
