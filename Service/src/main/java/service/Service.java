@@ -4,14 +4,24 @@ import model.Spectacol;
 import spectacole.SpectacolRepository;
 
 import java.sql.Date;
-import java.time.LocalDateTime;
+import java.util.List;
 
 public class Service {
+    SpectacolRepository repo = new SpectacolRepository();
     public static void main(String[] args) {
         SpectacolRepository repo = new SpectacolRepository();
+//
+//        Spectacol spectacol = new Spectacol(Date.valueOf("1999-10-25"),"Aluna",69);
+//
+//        repo.add(spectacol);
+        System.out.println(repo.getOne(1));
+    }
 
-        Spectacol spectacol = new Spectacol(Date.valueOf("1999-10-25"),"Aluna",69);
+    public Spectacol getSpectacol(int id) {
+        return repo.getOne(id);
+    }
 
-        repo.add(spectacol);
+    public List<Spectacol> getAllSpectacole() {
+        return (List<Spectacol>) repo.getAll();
     }
 }
