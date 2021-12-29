@@ -1,4 +1,0 @@
-testclient/Client.java
- testclient.Client
-testclient/StartClient.java
- testclient.StartClient
