@@ -83,4 +83,11 @@ public class Vanzare {
         this.suma = suma;
     }
 
+    @Override
+    public String toString() {
+        return "Vanzare efectuata pentru spectacolul "+ID_spectacol+
+                "\nLocuri vandute: "+lista_locuri_vandute+
+                "\nIn numar de: "+nr_bilete_vandute+
+                "\nInsumand "+suma+"\n\n";
+    }
 }

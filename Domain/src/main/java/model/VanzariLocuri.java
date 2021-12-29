@@ -24,4 +24,12 @@ public class VanzariLocuri {
     public void setNumar_loc(int numar_loc) {
         this.numar_loc = numar_loc;
     }
+
+    @Override
+    public String toString() {
+        return "VanzariLocuri{" +
+                "id_vanzare=" + id_vanzare +
+                ", numar_loc=" + numar_loc +
+                '}';
+    }
 }

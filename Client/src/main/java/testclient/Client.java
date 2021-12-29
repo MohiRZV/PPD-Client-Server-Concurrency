@@ -1,16 +1,15 @@
 package testclient;
 
-import model.Sala;
 import org.springframework.web.client.RestTemplate;
 
 import java.util.*;
 import java.util.concurrent.Callable;
+import java.util.concurrent.TimeUnit;
 
-public class Client {
+public class Client extends Thread{
 
     String URL = "http://localhost:8080/ppd";
     RestTemplate template = new RestTemplate();
-    Sala sala;
 
     private <T> T execute(Callable<T> callable) throws Exception {
         return callable.call();
@@ -42,19 +41,27 @@ public class Client {
         return list;
     }
 
+    @Override
+    public void run() {
+        long startTime = System.nanoTime();
+        long lifeSpan = TimeUnit.NANOSECONDS.convert(1, TimeUnit.MINUTES);
+        long sleepTime = TimeUnit.MILLISECONDS.convert(2,TimeUnit.SECONDS);
 
-    private void setUp() {
-        int nr_locuri = 100;
+        while(System.nanoTime()-startTime<lifeSpan) {
+            List<Integer> places = randomPlaces(5,100);
+            System.out.println(places);
 
-        sala = new Sala(nr_locuri);
-    }
-
-    public void run() throws Exception {
-        setUp();
-
-        List<Integer> places = randomPlaces(10,100);
-        System.out.println(places);
-
-        System.out.println(reserve(places,4));
+            int spectacol = generateRandom(3);
+            try {
+                System.out.println(reserve(places,spectacol));
+            } catch (Exception exception) {
+                exception.printStackTrace();
+            }
+            try {
+                Thread.sleep(sleepTime);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
     }
 }

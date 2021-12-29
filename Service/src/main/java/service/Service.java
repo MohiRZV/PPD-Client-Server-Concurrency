@@ -1,5 +1,6 @@
 package service;
 
+import model.Sala;
 import model.Spectacol;
 import model.Vanzare;
 import spectacole.SpectacolRepository;
@@ -7,23 +8,55 @@ import vanzari.VanzareRepository;
 
 import java.sql.Date;
 import java.time.LocalDate;
-import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Service {
     SpectacolRepository repo = new SpectacolRepository();
     VanzareRepository vanzareRepository = new VanzareRepository();
     public static void main(String[] args) {
-        SpectacolRepository repo = new SpectacolRepository();
-        VanzareRepository vanzariRepo = new VanzareRepository();
+        System.out.println(Service.getInstance().report((List<Vanzare>) Service.getInstance().vanzareRepository.getAll()));
+    }
 
-        Spectacol spectacol = new Spectacol(Date.valueOf("1999-10-25"),"Elling",100);
-        Vanzare vanzare = new Vanzare(1,Date.valueOf("1999-10-25"));
-        vanzare.setLista_locuri_vandute(Arrays.asList(1,8,90));
+    public List<Vanzare> getAllVanzari() {
+        return (List<Vanzare>) vanzareRepository.getAll();
+    }
 
-        vanzariRepo.add(vanzare);
+    public Map<Integer, Vanzare> report(List<Vanzare> vanzari) {
+        Map<Integer, Vanzare> totalSales = new HashMap<>();
+        for(int i=1;i<=3;i++) {
+            for(Vanzare vanzare : vanzari){
+                if(vanzare.getID_spectacol()==i) {
+                    if(totalSales.get(i)==null){
+                        totalSales.put(i,new Vanzare(vanzare.getID_spectacol(), Date.valueOf(LocalDate.now())));
+                        Vanzare current = totalSales.get(i);
+                        current.setNr_bilete_vandute(vanzare.getNr_bilete_vandute());
+                        current.setLista_locuri_vandute(vanzare.getLista_locuri_vandute());
+                        current.setSuma(vanzare.getSuma());
+                    }else{
+                        Vanzare current = totalSales.get(i);
+                        current.setNr_bilete_vandute(current.getNr_bilete_vandute()+vanzare.getNr_bilete_vandute());
+                        List<Integer> list = current.getLista_locuri_vandute();
+                        list.addAll(vanzare.getLista_locuri_vandute());
+                        current.setLista_locuri_vandute(list);
+                        current.setSuma(vanzare.getSuma()+current.getSuma());
+                    }
+                }
+            }
+        }
+        return totalSales;
+    }
 
-        System.out.println(repo.getOne(1));
+
+    private Service(){}
+
+    private static Service instance;
+    public static Service getInstance() {
+        if(instance == null){
+            instance = new Service();
+        }
+        return instance;
     }
 
     public Spectacol getSpectacol(int id) {
@@ -34,7 +67,7 @@ public class Service {
         return (List<Spectacol>) repo.getAll();
     }
 
-    public String reserve(List<Integer> list, int id_spectacol) {
+    public String reserve(List<Integer> list, int id_spectacol, Sala sala) {
         Vanzare vanzare = new Vanzare(id_spectacol, Date.valueOf(LocalDate.now()));
 
         if(repo.getOne(id_spectacol)==null) {
@@ -45,17 +78,23 @@ public class Service {
         String booked = "";
         for(int loc: list){
             if(vanzareRepository.isBooked(id_spectacol, loc)){
-                booked=booked+", "+loc;
+                booked=booked+loc+", ";
             }
         }
 
         if(booked.isEmpty()) {
             vanzareRepository.add(vanzare);
-
+            sala.getVanzari().add(vanzare);
             return "Succeeded";
         } else {
+            booked = booked.replaceAll(", $", "");
             return "Failed, following seats are already booked: "+booked;
         }
+    }
+
+    public void evidenta() {
+        Iterable<Vanzare> vanzari = vanzareRepository.getAll();
+        System.out.println(vanzari);
     }
 
     public void nuke() {

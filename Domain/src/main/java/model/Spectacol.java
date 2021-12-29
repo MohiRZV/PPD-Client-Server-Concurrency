@@ -83,4 +83,15 @@ public class Spectacol {
     public void setSold(double sold) {
         this.sold = sold;
     }
+
+    @Override
+    public String toString() {
+        return "Spectacol{" +
+                "ID_spectacol=" + ID_spectacol +
+                ", data_spectacol=" + data_spectacol +
+                ", titlu='" + titlu + '\'' +
+                ", pret_bilet=" + pret_bilet +
+                ", sold=" + sold +
+                '}';
+    }
 }

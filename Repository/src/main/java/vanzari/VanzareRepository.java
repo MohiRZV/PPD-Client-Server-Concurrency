@@ -2,6 +2,7 @@ package vanzari;
 
 import model.Vanzare;
 import model.VanzariLocuri;
+import spectacole.SpectacolRepository;
 import utils.JDBCUtils;
 
 import java.sql.*;
@@ -107,7 +108,7 @@ public class VanzareRepository {
         VanzariLocuri vanzariLocuri;
         List<Integer> lista = new ArrayList<>();
 
-        try(PreparedStatement preStmt=con.prepareStatement("select * from vanzari_locuri where id=?")){
+        try(PreparedStatement preStmt=con.prepareStatement("select * from vanzari_locuri where id_vanzare=?")){
             preStmt.setLong(1,id);
             try(ResultSet result=preStmt.executeQuery()){
                 while(result.next()){
@@ -144,6 +145,10 @@ public class VanzareRepository {
             try(ResultSet result=preStmt.executeQuery()){
                 while(result.next()){
                     Vanzare vanzare=getEntityFromResultSet(result);
+                    vanzare.setLista_locuri_vandute(getListaLocuriVandute(vanzare.getID_vanzare()));
+                    vanzare.setNr_bilete_vandute(vanzare.getLista_locuri_vandute().size());
+
+                    vanzare.setSuma(vanzare.getNr_bilete_vandute()*new SpectacolRepository().getOne(vanzare.getID_spectacol()).getPret_bilet());
                     vanzari.add(vanzare);
                 }
             }
@@ -152,6 +157,8 @@ public class VanzareRepository {
         }
         return vanzari;
     }
+
+
 
     public void nuke() {
         Connection con=dbUtils.getConnection();
