@@ -19,7 +19,7 @@ public class Service {
         System.out.println(Service.getInstance().report((List<Vanzare>) Service.getInstance().vanzareRepository.getAll()));
     }
 
-    public List<Vanzare> getAllVanzari() {
+    public synchronized List<Vanzare> getAllVanzari() {
         return (List<Vanzare>) vanzareRepository.getAll();
     }
 
@@ -74,7 +74,11 @@ public class Service {
             return "Failed, the selected spectacol is unavailable!";
         }
         vanzare.setLista_locuri_vandute(list);
-
+        vanzare.setNr_bilete_vandute(list.size());
+        vanzare.setSuma(sala.getSpectacole().stream()
+                .filter(spectacol -> spectacol.getID_spectacol()==vanzare.getID_spectacol())
+                .findFirst()
+                .get().getPret_bilet() * vanzare.getNr_bilete_vandute());
         String booked = "";
         for(int loc: list){
             if(vanzareRepository.isBooked(id_spectacol, loc)){

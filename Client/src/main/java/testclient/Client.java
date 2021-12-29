@@ -53,7 +53,10 @@ public class Client extends Thread{
 
             int spectacol = generateRandom(3);
             try {
-                System.out.println(reserve(places,spectacol));
+                String result = reserve(places, spectacol);
+                if(result.equals("TERMINATED"))
+                    this.interrupt();
+                System.out.println(result);
             } catch (Exception exception) {
                 exception.printStackTrace();
             }

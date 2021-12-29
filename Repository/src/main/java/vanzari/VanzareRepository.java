@@ -26,6 +26,15 @@ public class VanzareRepository {
             System.err.println("Error DB"+ex);
         }
 
+        int finalId = getId();
+        entity.getLista_locuri_vandute().forEach(loc -> {
+            addVanzariLocuri(con, finalId, loc);
+        });
+        return null;
+    }
+
+    private synchronized int getId() {
+        Connection con=dbUtils.getConnection();
         int id = -1;
 
         try(PreparedStatement preStmt=con.prepareStatement("select last_insert_rowid() as id")){
@@ -34,14 +43,7 @@ public class VanzareRepository {
         }catch (SQLException ex){
             System.err.println("Error DB"+ex);
         }
-
-        int finalId = id;
-        entity.getLista_locuri_vandute().forEach(loc -> {
-            addVanzariLocuri(con, finalId, loc);
-        });
-
-
-        return null;
+        return id;
     }
 
     private void addVanzariLocuri(Connection con, int id_vanzare, int numar_loc) {
