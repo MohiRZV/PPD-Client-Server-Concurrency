@@ -79,20 +79,15 @@ public class Service {
                 .filter(spectacol -> spectacol.getID_spectacol()==vanzare.getID_spectacol())
                 .findFirst()
                 .get().getPret_bilet() * vanzare.getNr_bilete_vandute());
-        String booked = "";
-        for(int loc: list){
-            if(vanzareRepository.isBooked(id_spectacol, loc)){
-                booked=booked+loc+", ";
-            }
-        }
 
-        if(booked.isEmpty()) {
+        int booked = vanzareRepository.isBooked(id_spectacol, list);
+
+        if(booked==0) {
             vanzareRepository.add(vanzare);
             sala.getVanzari().add(vanzare);
             return "Succeeded";
         } else {
-            booked = booked.replaceAll(", $", "");
-            return "Failed, following seats are already booked: "+booked;
+            return "Failed, "+booked+" of the selected seats are already booked ";
         }
     }
 

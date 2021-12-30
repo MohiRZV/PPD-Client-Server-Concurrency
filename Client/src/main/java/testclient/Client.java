@@ -5,9 +5,10 @@ import org.springframework.web.client.RestTemplate;
 import java.util.*;
 import java.util.concurrent.Callable;
 import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Client extends Thread{
-
+    private AtomicBoolean running = new AtomicBoolean(true);
     String URL = "http://localhost:8080/ppd";
     RestTemplate template = new RestTemplate();
 
@@ -47,7 +48,7 @@ public class Client extends Thread{
         long lifeSpan = TimeUnit.NANOSECONDS.convert(1, TimeUnit.MINUTES);
         long sleepTime = TimeUnit.MILLISECONDS.convert(2,TimeUnit.SECONDS);
 
-        while(System.nanoTime()-startTime<lifeSpan) {
+        while(System.nanoTime()-startTime<lifeSpan && running.get()) {
             List<Integer> places = randomPlaces(5,100);
             System.out.println(places);
 
@@ -55,7 +56,10 @@ public class Client extends Thread{
             try {
                 String result = reserve(places, spectacol);
                 if(result.equals("TERMINATED"))
+                {
+                    running.set(false);
                     this.interrupt();
+                }
                 System.out.println(result);
             } catch (Exception exception) {
                 exception.printStackTrace();
@@ -63,7 +67,8 @@ public class Client extends Thread{
             try {
                 Thread.sleep(sleepTime);
             } catch (InterruptedException e) {
-                e.printStackTrace();
+                System.out.println("Sleep interrupted! This Thread will be killed in cold blood");
+
             }
         }
     }

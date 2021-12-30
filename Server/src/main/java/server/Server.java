@@ -14,6 +14,8 @@ public class Server{
     private Service service = Service.getInstance();
     private Sala sala = new Sala(100);
 
+    int nrRaport = 1;
+
     boolean isRunning = true;
 
     static final int MAX_T = 3;
@@ -54,7 +56,7 @@ public class Server{
 
         boolean isCorrect = verify(vanzari, service.report(service.getAllVanzari()));
 
-        System.out.println("Situatie: ");
+        System.out.println("Situatie "+nrRaport+": ");
         vanzari.forEach((id, vanzare)->{
             System.out.println("Pentru spectacolul "+id);
             System.out.println("Au fost vandute locurile: "+vanzare.getLista_locuri_vandute());
@@ -84,6 +86,7 @@ public class Server{
        }
 
        isRunning = false;
+       System.out.println("Server stopped!");
    }
 
     public Future<String> reserve(List<Integer> list, int id_spectacol) {

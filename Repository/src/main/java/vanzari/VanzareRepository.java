@@ -17,7 +17,7 @@ public class VanzareRepository {
         dbUtils=new JDBCUtils();
     }
 
-    public Vanzare add(Vanzare entity) {
+    public synchronized Vanzare add(Vanzare entity) {
         Connection con=dbUtils.getConnection();
         try(PreparedStatement preStmt=con.prepareStatement("insert into vanzari (id_spectacol, data_vanzare) values(?,?)")){
             setPreparedStatement(entity,preStmt);
@@ -85,24 +85,25 @@ public class VanzareRepository {
         return vanzare;
     }
 
-    public boolean isBooked(int id_spectacol, int seat) {
+    public synchronized int isBooked(int id_spectacol, List<Integer> seats) {
         Connection con=dbUtils.getConnection();
-        boolean booked = false;
-        try(PreparedStatement preStmt=con.prepareStatement("select count(*) as count from vanzari V inner join vanzari_locuri VL where V.id_spectacol = ? and VL.id_vanzare=V.id and VL.numar_loc = ?")){
+        int count = 0;
+        String seatsString = seats.toString().replaceAll("\\[","(").replaceAll("]",")");
+        try(PreparedStatement preStmt=con.prepareStatement("select count(*) as count from vanzari V inner join vanzari_locuri VL where V.id_spectacol = ? and VL.id_vanzare=V.id and VL.numar_loc IN "+seatsString)){
             preStmt.setLong(1,id_spectacol);
-            preStmt.setLong(2,seat);
+//            Array arrayOfSeats = con.createArrayOf("INTEGER", seats.toArray());
+//            System.out.println(seats);
+//            preStmt.setArray(2,arrayOfSeats);
             try(ResultSet result=preStmt.executeQuery()){
                 while(result.next()){
-                    int count = result.getInt("count");
-                    if(count>0)
-                        booked=true;
+                    count = result.getInt("count");
                 }
             }
         }catch (SQLException ex){
             System.err.println("Error DB"+ex);
         }
 
-        return booked;
+        return count;
     }
 
     public List<Integer> getListaLocuriVandute(int id){
@@ -140,7 +141,7 @@ public class VanzareRepository {
         return new Vanzare(id, id_spectacol, dataVanzarel);
     }
 
-    public Iterable<Vanzare> getAll() {
+    public synchronized Iterable<Vanzare> getAll() {
         Connection con=dbUtils.getConnection();
         List<Vanzare> vanzari=new ArrayList<>();
         try(PreparedStatement preStmt=con.prepareStatement("select * from vanzari")){
