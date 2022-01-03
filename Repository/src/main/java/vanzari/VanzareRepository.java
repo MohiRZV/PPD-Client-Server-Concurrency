@@ -165,7 +165,6 @@ public class VanzareRepository {
         return vanzari;
     }
 
-
     //functie care goleste tablele vanzari si vanzariLocuri
     public void nuke() {
         Connection con=dbUtils.getConnection();

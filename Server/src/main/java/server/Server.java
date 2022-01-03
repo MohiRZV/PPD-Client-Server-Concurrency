@@ -105,9 +105,6 @@ public class Server{
         });
 
         System.out.println("Raportul efectuat a fost corect: "+isCorrect);
-        System.out.println(" --- ");
-        nrRaport++;
-        writetoFile(myWriter, vanzari, isCorrect);
     }
 
     public void run() {
@@ -143,6 +140,7 @@ public class Server{
             e.printStackTrace();
         }
     }
+
 
     public Future<String> reserve(List<Integer> list, int id_spectacol) {
         Future<String> future = pool.submit(new Callable<String>() {

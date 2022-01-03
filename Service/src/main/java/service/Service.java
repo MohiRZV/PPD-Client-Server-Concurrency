@@ -15,7 +15,6 @@ import java.util.Map;
 public class Service {
     SpectacolRepository repo = new SpectacolRepository();
     VanzareRepository vanzareRepository = new VanzareRepository();
-
     public static void main(String[] args) {
         System.out.println(Service.getInstance().report((List<Vanzare>) Service.getInstance().vanzareRepository.getAll()));
     }
@@ -77,6 +76,7 @@ public class Service {
         }
         vanzare.setLista_locuri_vandute(list);
         vanzare.setNr_bilete_vandute(list.size());
+
         //la fiecare vanzare se calculeaza suma achitata
         vanzare.setSuma(sala.getSpectacole().stream()
                 .filter(spectacol -> spectacol.getID_spectacol()==vanzare.getID_spectacol())

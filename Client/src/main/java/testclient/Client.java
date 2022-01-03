@@ -67,8 +67,7 @@ public class Client extends Thread{
             try {
                 Thread.sleep(sleepTime);
             } catch (InterruptedException e) {
-                System.out.println("Sleep interrupted! This Thread will be killed");
-
+                System.out.println("Sleep interrupted! This Thread will be killed in cold blood");
             }
         }
     }
