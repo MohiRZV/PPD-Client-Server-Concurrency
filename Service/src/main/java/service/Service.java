@@ -8,6 +8,7 @@ import vanzari.VanzareRepository;
 
 import java.sql.Date;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -26,19 +27,23 @@ public class Service {
     //pentru fiecare spectacol se calculeaza locuri vandute, numarul acestora si suma totala achitatas
     public Map<Integer, Vanzare> report(List<Vanzare> vanzari) {
         Map<Integer, Vanzare> totalSales = new HashMap<>();
+        //System.out.println("Generating report");
         for(int i=1;i<=3;i++) {
             for(Vanzare vanzare : vanzari){
+                //System.out.println(vanzare.getLista_locuri_vandute());
                 if(vanzare.getID_spectacol()==i) {
                     if(totalSales.get(i)==null){
                         totalSales.put(i,new Vanzare(vanzare.getID_spectacol(), Date.valueOf(LocalDate.now())));
                         Vanzare current = totalSales.get(i);
                         current.setNr_bilete_vandute(vanzare.getNr_bilete_vandute());
-                        current.setLista_locuri_vandute(vanzare.getLista_locuri_vandute());
+                        List<Integer> list = new ArrayList<>(vanzare.getLista_locuri_vandute());
+                        current.setLista_locuri_vandute(list);
                         current.setSuma(vanzare.getSuma());
                     }else{
                         Vanzare current = totalSales.get(i);
                         current.setNr_bilete_vandute(current.getNr_bilete_vandute()+vanzare.getNr_bilete_vandute());
-                        List<Integer> list = current.getLista_locuri_vandute();
+                        List<Integer> list = new ArrayList<>();
+                        list.addAll(current.getLista_locuri_vandute());
                         list.addAll(vanzare.getLista_locuri_vandute());
                         current.setLista_locuri_vandute(list);
                         current.setSuma(vanzare.getSuma()+current.getSuma());
@@ -68,7 +73,7 @@ public class Service {
         return (List<Spectacol>) repo.getAll();
     }
 
-    public String reserve(List<Integer> list, int id_spectacol, Sala sala) {
+    public synchronized String reserve(List<Integer> list, int id_spectacol, Sala sala) {
         Vanzare vanzare = new Vanzare(id_spectacol, Date.valueOf(LocalDate.now()));
 
         if(repo.getOne(id_spectacol)==null) {
@@ -85,9 +90,11 @@ public class Service {
 
         int booked = vanzareRepository.isBooked(id_spectacol, list);
 
+        //System.out.println("Trying to book "+vanzare);
         if(booked==0) {
             //daca toate locurile sunt disponibile se creeaza vanzarea
-            vanzareRepository.add(vanzare);
+            int id = vanzareRepository.add(vanzare);
+            vanzare.setID_vanzare(id);
             sala.getVanzari().add(vanzare);
             return "Succeeded";
         } else {

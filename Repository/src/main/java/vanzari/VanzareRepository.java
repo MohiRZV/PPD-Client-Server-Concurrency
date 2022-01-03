@@ -17,7 +17,7 @@ public class VanzareRepository {
         dbUtils=new JDBCUtils();
     }
 
-    public synchronized Vanzare add(Vanzare entity) {
+    public synchronized int add(Vanzare entity) {
         Connection con=dbUtils.getConnection();
         try(PreparedStatement preStmt=con.prepareStatement("insert into vanzari (id_spectacol, data_vanzare) values(?,?)")){
             setPreparedStatement(entity,preStmt);
@@ -31,7 +31,7 @@ public class VanzareRepository {
         entity.getLista_locuri_vandute().forEach(loc -> {
             addVanzariLocuri(con, finalId, loc);
         });
-        return null;
+        return finalId;
     }
 
     //functie care returneaza id-ul ultimei vanzari adaugate
@@ -110,7 +110,7 @@ public class VanzareRepository {
     }
 
     //functie care returneaza locurile vandute pentru o anumita vanzare
-    public List<Integer> getListaLocuriVandute(int id){
+    public synchronized List<Integer> getListaLocuriVandute(int id){
         Connection con=dbUtils.getConnection();
         VanzariLocuri vanzariLocuri;
         List<Integer> lista = new ArrayList<>();

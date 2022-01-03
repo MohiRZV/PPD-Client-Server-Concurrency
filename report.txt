@@ -1,0 +1,1104 @@
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41]
+In numar de: 1
+Insumand 100.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31]
+In numar de: 2
+Insumand 400.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91]
+In numar de: 1
+Insumand 150.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43]
+In numar de: 25
+Insumand 2500.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45]
+In numar de: 13
+Insumand 2600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95]
+In numar de: 11
+Insumand 1650.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61]
+In numar de: 31
+Insumand 3100.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10]
+In numar de: 25
+Insumand 5000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61]
+In numar de: 19
+Insumand 2850.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10]
+In numar de: 35
+Insumand 3500.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80]
+In numar de: 35
+Insumand 7000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60]
+In numar de: 21
+Insumand 3150.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32]
+In numar de: 38
+Insumand 3800.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24]
+In numar de: 43
+Insumand 8600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77]
+In numar de: 27
+Insumand 4050.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18]
+In numar de: 41
+Insumand 4100.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42]
+In numar de: 44
+Insumand 8800.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74]
+In numar de: 39
+Insumand 5850.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34]
+In numar de: 49
+Insumand 4900.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9]
+In numar de: 47
+Insumand 9400.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50]
+In numar de: 42
+Insumand 6300.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33]
+In numar de: 50
+Insumand 5000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9]
+In numar de: 47
+Insumand 9400.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8]
+In numar de: 46
+Insumand 6900.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33]
+In numar de: 50
+Insumand 5000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66]
+In numar de: 48
+Insumand 9600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73]
+In numar de: 47
+Insumand 7050.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21]
+In numar de: 51
+Insumand 5100.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77]
+In numar de: 49
+Insumand 9800.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21]
+In numar de: 51
+Insumand 7650.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78]
+In numar de: 52
+Insumand 5200.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74]
+In numar de: 53
+Insumand 10600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---Data vanzare: 2022-01-03
+Pentru spectacolul 1
+Au fost vandute locurile: [41, 26, 83, 14, 70, 92, 2, 87, 55, 12, 96, 89, 53, 99, 69, 66, 47, 93, 15, 25, 97, 11, 76, 22, 43, 30, 42, 64, 67, 27, 61, 63, 19, 88, 10, 23, 91, 32, 94, 58, 18, 49, 65, 35, 28, 31, 59, 4, 34, 33, 21, 78, 46, 54, 9, 6]
+In numar de: 56
+Insumand 5600.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 2
+Au fost vandute locurile: [14, 31, 50, 69, 25, 18, 2, 71, 81, 61, 8, 92, 45, 3, 99, 17, 52, 33, 78, 11, 89, 6, 27, 23, 10, 34, 91, 26, 100, 62, 95, 87, 97, 28, 80, 76, 96, 22, 70, 29, 86, 30, 24, 42, 20, 67, 9, 66, 77, 83, 53, 38, 74, 19, 35]
+In numar de: 55
+Insumand 11000.0
+
+Data vanzare: 2022-01-03
+Pentru spectacolul 3
+Au fost vandute locurile: [91, 93, 31, 32, 5, 75, 10, 2, 94, 55, 95, 30, 22, 4, 52, 87, 24, 56, 61, 19, 60, 14, 63, 1, 83, 45, 77, 20, 18, 90, 42, 82, 96, 100, 11, 37, 12, 46, 74, 27, 25, 50, 34, 97, 23, 8, 73, 70, 54, 78, 21, 69, 92]
+In numar de: 53
+Insumand 7950.0
+
+Raportul efectuat a fost corect: true
+---

@@ -14,8 +14,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Server{
 
-    private Service service = Service.getInstance();
-    private Sala sala = new Sala(100);
+    private final Service service = Service.getInstance();
+    private final Sala sala = new Sala(100);
 
     int nrRaport = 1;
 
@@ -28,11 +28,7 @@ public class Server{
     public static Server getInstance() {
         if(instance==null){
             instance=new Server();
-            Thread thread = new Thread(){
-                public void run(){
-                    instance.run();
-                }
-            };
+            Thread thread = new Thread(() -> instance.run());
 
             thread.start();
         }
@@ -40,18 +36,18 @@ public class Server{
         return instance;
     }
 
-    private boolean hasDuplicates(List<Integer> seats) {
+    private synchronized boolean hasDuplicates(List<Integer> seats) {
         Map<Integer, Integer> map = new HashMap<>();
-        for(int i=0;i<seats.size();i++) {
-            if(map.containsKey(seats.get(i)))
+        for (Integer seat : seats) {
+            if (map.containsKey(seat))
                 return true;
             else
-                map.put(seats.get(i), seats.get(i));
+                map.put(seat, seat);
         }
         return false;
     }
 
-    private boolean verify(Map<Integer, Vanzare> inMemory, Map<Integer, Vanzare> inDB) {
+    private synchronized boolean verify(Map<Integer, Vanzare> inMemory, Map<Integer, Vanzare> inDB) {
 
         AtomicBoolean isCorrect = new AtomicBoolean(true);
         inMemory.forEach((integer, vanzare) ->{
@@ -78,7 +74,6 @@ public class Server{
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-
             });
             myWriter.write("Raportul efectuat a fost corect: "+isCorrect);
             myWriter.write("\n");
@@ -89,10 +84,14 @@ public class Server{
         }
     }
 
-    private synchronized void showReport(FileWriter myWriter) {
-        Map<Integer, Vanzare> vanzari = service.report(sala.getVanzari());
+    private synchronized void showReport(FileWriter writer) {
+        Map<Integer, Vanzare> vanzari;
+        boolean isCorrect;
+        synchronized (service) {
+            vanzari = service.report(sala.getVanzari());
 
-        boolean isCorrect = verify(vanzari, service.report(service.getAllVanzari()));
+            isCorrect = verify(vanzari, service.report(service.getAllVanzari()));
+        }
 
         System.out.println("\n--- Evidenta ---");
         System.out.println("Situatie "+nrRaport+": ");
@@ -101,9 +100,8 @@ public class Server{
             System.out.println("Au fost vandute locurile: "+vanzare.getLista_locuri_vandute());
             System.out.println("In numar de: "+vanzare.getNr_bilete_vandute());
             System.out.println("Insumand "+vanzare.getSuma());
-            //writetoFile(id, vanzare);
         });
-
+        writetoFile(writer, vanzari, isCorrect);
         System.out.println("Raportul efectuat a fost corect: "+isCorrect);
     }
 
@@ -111,12 +109,12 @@ public class Server{
        long startTime = System.nanoTime();
 
        sala.setSpectacole(service.getAllSpectacole());
-       long lifeSpan = TimeUnit.NANOSECONDS.convert(1, TimeUnit.MINUTES);
+       long lifeSpan = TimeUnit.NANOSECONDS.convert(5, TimeUnit.MINUTES);
        long sleepTime = TimeUnit.MILLISECONDS.convert(5,TimeUnit.SECONDS);
        FileWriter myWriter = null;
 
         try {
-            myWriter = new FileWriter("filename.txt");
+            myWriter = new FileWriter("report.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -143,7 +141,7 @@ public class Server{
 
 
     public Future<String> reserve(List<Integer> list, int id_spectacol) {
-        Future<String> future = pool.submit(new Callable<String>() {
+        return pool.submit(new Callable<String>() {
             @Override
             public String call() {
                 if(isRunning)
@@ -152,6 +150,5 @@ public class Server{
                     return "TERMINATED";
             }
         });
-        return future;
     }
 }
